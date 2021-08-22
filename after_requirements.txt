@@ -1,0 +1,11 @@
+I did pip install for the following:
+
+pandas
+seaborn
+numba
+dcor
+ray[tune]
+
+Then I change the base dir in SAE/configs/standard.yaml to /scratch/skhanehzar/SAE/logs
+
+conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=10.1 -c pytorch
